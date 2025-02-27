@@ -26,3 +26,6 @@ The Radahn Festival is another way of playing Elden Ring with friends. It's a ra
        _(Ex. : The Pureblood Knight Medal is a reward during White Mask Varé's questline, it's way too long to get it but a mandatory item to complete the seventh objective of Radahn Festival 1)_
 2. Prohibited items are items that player cannot freely get in Kalé's extended shop because it's too helpful and can broke the game.
        _(Ex. : Shabriri Howl is a prohibited item in Radahn Festival 1 because one of the bonus objectives is to get Shabriri Howl.)_
+
+### Objectives
+Of course, you can create your own objectives, or you can use mines on my Instagram (https://linktr.ee/Goregrinder)
