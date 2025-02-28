@@ -6,7 +6,8 @@
 3. Elden Ring : Shadows of the Erdtree on PC
 4. Glorious Merchant [https://mods.tclark.io/mods/glorious-merchant/]
 5. ModEngine 2 [https://github.com/soulsmods/ModEngine2/releases/tag/release-2.1.0]
-Every information on how to install/use the mod are on the mod website. 
+--
+Every information on how to install/use the mods are on the mods website. 
 
 ### ABOUT THE FESTIVAL
 The Radahn Festival is another way of playing Elden Ring with friends. It's a race against time and others players. For each game, you'll need a Host and a bunch of players. You can of course play it all by yourself (as I do to test each festival), it's your game! The ideas is similar to Elden Ring Bingo, players got time to fulfill objectives. Objectives gives points. At the end of the timer, Players stop and you can start to count the points. 
