@@ -29,4 +29,4 @@ The Radahn Festival is another _way_ of playing Elden Ring with your friends. It
 >_(Ex. : Shabriri Howl is a prohibited item in Radahn Festival 1 because one of the bonus objectives is to get Shabriri Howl.)_
 
 ### Objectives
-Of course, you can create your own objectives, or you can use mines. They're available on my Instagram (https://linktr.ee/Goregrinder). 
+The "Festivals" I made are available on my Instagram (https://linktr.ee/Goregrinder). I test them to make sure all objectives can be completed on time. If you create your own Festival, be sure to share it to me ! I'm always interested :-)
