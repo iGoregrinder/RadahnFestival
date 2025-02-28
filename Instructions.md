@@ -1,7 +1,7 @@
 # RadahnFestival
 ## The informations you need to organize your own festival! 
 ### WHAT YOU NEED
-1. Discord
+1. [Discord](https://discord.com/)
 2. [ELDEN RING](https://store.steampowered.com/app/1245620/ELDEN_RING/) (PC Version)
 3. [ELDEN RING Shadows of the Erdtree](https://store.steampowered.com/app/2778580/ELDEN_RING_Shadow_of_the_Erdtree/) (PC Version)
 4. [Glorious Merchant Mod](https://www.nexusmods.com/eldenring/mods/5192)
